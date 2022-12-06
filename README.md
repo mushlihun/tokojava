@@ -16,7 +16,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/mushlihun/tokojava?color=cyan)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mushlihun/tokojava)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mushlihun/tokojava)
-![Github total lines](https://sloc.xyz/github/mushlihun/tokojava)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mushlihun/tokojava?color=g)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mushlihun/tokojava?color=yellow)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mushlihun/tokojava)
