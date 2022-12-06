@@ -11,15 +11,15 @@
 
 <br>
 
-![GitHub contributors](https://img.shields.io/github/contributors/HKNP-Team/eCommerceWebsite)
-![GitHub issues](https://img.shields.io/github/issues/HKNP-Team/eCommerceWebsite?color=red)
-![GitHub top language](https://img.shields.io/github/languages/top/HKNP-Team/eCommerceWebsite?color=cyan)
-![GitHub repo size](https://img.shields.io/github/repo-size/HKNP-Team/eCommerceWebsite)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HKNP-Team/eCommerceWebsite)
-![Github total lines](https://sloc.xyz/github/HKNP-Team/eCommerceWebsite)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HKNP-Team/eCommerceWebsite?color=g)
-![GitHub last commit](https://img.shields.io/github/last-commit/HKNP-Team/eCommerceWebsite?color=yellow)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/HKNP-Team/eCommerceWebsite)
+![GitHub contributors](https://img.shields.io/github/contributors/mushlihun/tokojava)
+![GitHub issues](https://img.shields.io/github/issues/mushlihun/tokojava?color=blue)
+![GitHub top language](https://img.shields.io/github/languages/top/mushlihun/tokojava?color=cyan)
+![GitHub repo size](https://img.shields.io/github/repo-size/mushlihun/tokojava)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mushlihun/tokojava)
+![Github total lines](https://sloc.xyz/github/mushlihun/tokojava)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mushlihun/tokojava?color=g)
+![GitHub last commit](https://img.shields.io/github/last-commit/mushlihun/tokojava?color=yellow)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mushlihun/tokojava)
 
 <br>
 <br>
